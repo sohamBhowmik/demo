@@ -1,0 +1,11 @@
+[{
+	"team": "India",
+	"squad": [{
+		"player_name": "Virat Kohli",
+		"isPlayer": 1
+	},
+		  {
+			  "player_name": "Test-111 Kohli",
+		"isPlayer": 1
+		  }]
+}]
